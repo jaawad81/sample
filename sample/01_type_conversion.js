@@ -14,9 +14,10 @@ let numberToBoolean= Boolean(number)
 // console.log(numberToBoolean);
 
 
-let a="77u"
+let a="77"
 let stringToNumber= Number(a)
 console.log(stringToNumber);
+
 
 console.log(typeof stringToNumber);
 

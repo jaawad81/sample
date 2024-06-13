@@ -1,12 +1,6 @@
 let a=20
 const b=301
-var  c=39210
-console.table([a,c])
-if(b>300){
-   
-   var c=21
-}else{
-    
-}
+var  c;
 
-console.table([a,c])
+console.log( c
+) 
