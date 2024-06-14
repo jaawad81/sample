@@ -9,6 +9,14 @@ const num1=293.592
 
 // -------------------MATH----------------
 
-console.log(Math.random());
-console.log((Math.random()*10)+1);
-console.log(Math.floor((Math.random()*10)+1));
+// console.log(Math.random());
+// console.log((Math.random()*10)+1);
+const r=Math.random()
+// console.log("r:"+r);
+// console.log(7-2+1);
+// console.log(Math.floor((r*(7-2+1))+2));
+// Math.floor(Math.random()*(max-min+1)+min)
+
+
+
+
