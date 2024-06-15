@@ -19,3 +19,7 @@ const arr3=arr1.concat(arr2);
 const arr4= [...arr1,...arr2];
 console.log(arr3);
 console.log(arr4);
+
+const stringstoArray=Array.of("Jawad", "Ahmed", "ali")  //multiple strings to array
+const stringtoArray=Array.from("Jawad")    // convert string elements to array elements
+console.log(stringtoArray);
